@@ -1,0 +1,13 @@
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.csprojAssemblyReference.cache
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.csproj.CoreCompileInputs.cache
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.AssemblyInfoInputs.cache
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.AssemblyInfo.cs
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.exe
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.deps.json
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.runtimeconfig.json
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.runtimeconfig.dev.json
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.dll
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\bin\Debug\netcoreapp3.1\Deliverable4.pdb
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.dll
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.pdb
+C:\Users\Share\source\repos\Deliverable4\Deliverable4\obj\Debug\netcoreapp3.1\Deliverable4.genruntimeconfig.cache
